@@ -1,4 +1,4 @@
-export const salp = "0xC39A0810097565256Fda6E6784e7256d456d8409";
-export const undp = "0xEd3decb53c65da460BF650455D32bE02D2765E02";
-export const sylp = "0x8a7dC0C284E32Acc9685766478Be73f5b64BeC24";
-export const drup = "0xeD1B916933FeD917322aa883Fa2e85b7201D4d86";
+export const salp = "0xc789DE0823C1C9389E3Aab11C61d0E09ba32117f";
+export const undp = "0xB00466e8008e22Bf529ab0552AaFc39eB5aFd97f";
+export const sylp = "0x272F9e2d4a9e3823774ed8d18DBF91cD7Fc86ed5";
+export const drup = "0x56bb7AE168AF9dccC6b6352Fcbbfc5400CD2aBf8";
