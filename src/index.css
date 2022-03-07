@@ -49,10 +49,10 @@
 }
 
 .container {
+  /* background: url(./bg.png); */
   display: flex;
   flex-direction: column;
   height: 120vh;
-  width: 100vw;
   justify-content: center;
   align-items: center;
 }

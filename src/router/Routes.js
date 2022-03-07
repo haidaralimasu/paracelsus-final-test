@@ -13,10 +13,10 @@ const Routes = () => {
       <Navbar />
       <Switch>
         <Route path="/" exact component={Salp} />
-        <Route path="/salp" exact component={Salp} />
-        <Route path="/sylp" exact component={Sylp} />
-        <Route path="/drup" exact component={Drup} />
-        <Route path="/undp" exact component={Undp} />
+        <Route path="/salamander" exact component={Salp} />
+        <Route path="/sylph" exact component={Sylp} />
+        <Route path="/druid" exact component={Drup} />
+        <Route path="/undine" exact component={Undp} />
       </Switch>
     </BrowserRouter>
   );
