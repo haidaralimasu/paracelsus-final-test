@@ -36,7 +36,7 @@ const Sylp = () => {
   };
 
   const increase = () => {
-    if (amount < 5) {
+    if (amount < 10) {
       setAmount(amount + 1);
     }
   };
@@ -165,7 +165,7 @@ const Sylp = () => {
         <div className="minter-status">
           <div className="minter-status-card">
             <h6>Status</h6>
-            <h2>{onlyWhitelisted ? "Greenlist Mint" : "Publicsale"}</h2>
+            <h2>{onlyWhitelisted ? "Greenlist Mint" : "Public Sale"}</h2>
           </div>
           <div className="vl"></div>
           <div className="minter-status-card">

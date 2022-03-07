@@ -36,7 +36,7 @@ const Undp = () => {
   };
 
   const increase = () => {
-    if (amount < 5) {
+    if (amount < 10) {
       setAmount(amount + 1);
     }
   };
