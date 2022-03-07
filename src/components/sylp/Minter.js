@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { useEthers } from "@usedapp/core";
 import { notifyNetwork, notifyError, notifyMintSuccess } from "../../toast";
 import { ethers } from "ethers";
-import { drup as address } from "../../contracts";
+import { sylp as address } from "../../contracts";
 import nftabi from "../../contracts/NFT.json";
 import {
   useBalanceOf,
@@ -36,7 +36,7 @@ const Sylp = () => {
   };
 
   const increase = () => {
-    if (amount < limit) {
+    if (amount < 5) {
       setAmount(amount + 1);
     }
   };

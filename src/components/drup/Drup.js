@@ -36,7 +36,7 @@ const Drup = () => {
   };
 
   const increase = () => {
-    if (amount < limit) {
+    if (amount < 5) {
       setAmount(amount + 1);
     }
   };

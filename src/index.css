@@ -37,7 +37,7 @@
 .container {
   display: flex;
   flex-direction: column;
-  height: 110vh;
+  height: 120vh;
   width: 100vw;
   justify-content: center;
   align-items: center;
@@ -70,7 +70,7 @@
   width: 400px;
 }
 .minter-main {
-  height: 110vh;
+  height: 150vh;
   display: flex;
   justify-content: center;
   flex-direction: column;
