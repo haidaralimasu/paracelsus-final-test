@@ -76,7 +76,7 @@ const Drup = () => {
         style={{ marginTop: 50 }}
         src="https://images.squarespace-cdn.com/content/v1/6209e559b78d4f4169421a26/7d53e6d5-83fa-4d51-9e63-fc816ad4b705/whitelogo.png?format=1500w"
       />
-      <h1 className="heading-primary">Duid Land Mint</h1>
+      <h1 className="heading-primary">Druid Land Mint</h1>
       <div>
         {account ? (
           <>
