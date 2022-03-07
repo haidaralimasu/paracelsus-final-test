@@ -165,7 +165,7 @@ const Undp = () => {
         <div className="minter-status">
           <div className="minter-status-card">
             <h6>Status</h6>
-            <h2>{onlyWhitelisted ? "Greenlist Mint" : "Publicsale"}</h2>
+            <h2>{onlyWhitelisted ? "Greenlist Mint" : "Public Sale"}</h2>
           </div>
           <div className="vl"></div>
           <div className="minter-status-card">
